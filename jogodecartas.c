@@ -6,10 +6,10 @@ int main() {
     int carta2_forca, carta2_velocidade, carta2_inteligencia;
     int escolha;
 
-    printf("=== SUPER TRUNFO DIGITAL ===\n");
+    printf(" SUPER TRUNFO \n");
 
     // Cadastro da carta 1
-    printf("\n=== Cadastro da Carta 1 ===\n");
+    printf("\n Cadastro da Carta 1 \n");
     printf("Digite a FORCA: ");
     scanf("%d", &carta1_forca);
     printf("Digite a VELOCIDADE: ");
@@ -18,7 +18,7 @@ int main() {
     scanf("%d", &carta1_inteligencia);
 
     // Cadastro da carta 2
-    printf("\n=== Cadastro da Carta 2 ===\n");
+    printf("\n Cadastro da Carta 2 \n");
     printf("Digite a FORCA: ");
     scanf("%d", &carta2_forca);
     printf("Digite a VELOCIDADE: ");
