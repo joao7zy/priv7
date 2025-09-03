@@ -94,6 +94,6 @@ int main() {
             break;
     }
 
-    printf("\nFim de jogo!\n");
+    printf("\nO jogo acabou, Parabens ao vencedor!\n");
     return 0;
 }
